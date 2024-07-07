@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|e:\\personal\\misbah\\work space\\horizon\\learning\\repositories\\api\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|e:\\personal\\misbah\\work space\\horizon\\learning\\repositories\\api\\webapplication1\\webapplication1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|e:\\personal\\misbah\\work space\\horizon\\learning\\repositories\\api\\webapplication1\\webapplication1\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|e:\\personal\\misbah\\work space\\horizon\\learning\\repositories\\api\\webapplication1\\webapplication1\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF12541-3C3B-47E7-BB91-810ECB9E8C74}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cs",
+              "DocumentMoniker": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\Error.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Error.cs",
+              "ToolTip": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\Error.cs",
+              "RelativeToolTip": "WebApplication1\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:33:22.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\UserRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UserRequest.cs",
+              "ToolTip": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\UserRequest.cs",
+              "RelativeToolTip": "WebApplication1\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:26:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\User.cs",
+              "ToolTip": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\User.cs",
+              "RelativeToolTip": "WebApplication1\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:26:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Personal\\Misbah\\Work Space\\HORIZON\\Learning\\Repositories\\API\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:24:47.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
